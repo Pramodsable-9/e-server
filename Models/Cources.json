@@ -1,0 +1,52 @@
+[   
+
+        {
+            "id": 1,
+            "title": "Web Development",
+            "description": "Build your goals into focus",
+            "image": "/web-development.png",
+            "price": 99.99,
+            "rating": 4.5
+        },
+        {
+            "id": 2,
+            "title": "Artificial Intelligence",
+            "description": "Get started with AI, machine learning, and neural networks.",
+            "image": "/ai.png",
+            "price": 149.99,
+            "rating": 4.8
+        },
+        {
+            "id": 3,
+            "title": "Data Science",
+            "description": "Learn the tools and techniques used in data analysis",
+            "image": "/data-science.png",
+            "price": 199.99,
+            "rating": 4.9
+        },
+        {
+            "id": 4,
+            "title": "Machine Learning",
+            "description": "Machine learning is a type of artificial intelligence (AI)",
+            "image": "/machine-learning.png",
+            "price": 249.99,
+            "rating": 4.7
+        },
+        {
+            "id": 5,
+            "title": "Data Analyst",
+            "description": " A data analyst is a professional who collects, organizes, and analyzes data to help businesses make decisions.",
+            "image": "/cyber-security.png",
+            "price": 299.99,
+            "rating": 4.6
+        },
+        {
+            "id": 6,
+            "title": "Computer Vision",
+            "description": " a field of artificial intelligence (AI) that allows computers to see and understand images and videos",
+            "image": "/cyber-security.png",
+            "price": 299.99,
+            "rating": 4.6
+        }
+    ]
+
