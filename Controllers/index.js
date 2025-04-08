@@ -1,5 +1,5 @@
  
-const course = require("../Models/Courses.json");
+const course = require("../Models/Cources.json");
 
 exports.getAllCourses = (req, res) => {
     res.status(200).json(course);
